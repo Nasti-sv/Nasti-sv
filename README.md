@@ -1,4 +1,4 @@
-# Hard_skills
+# About me
 Hello!:wave: I am Anastasiya Savchuk. Welcome to my GitHub!
 
 
