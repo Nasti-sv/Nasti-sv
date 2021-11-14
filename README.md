@@ -11,5 +11,5 @@ Hello!:wave: I am Anastasiya Savchuk. Welcome to my GitHub!
 - :large_blue_diamond:I have a video about DevTools in Chrome - :movie_camera:[Watch video](https://www.youtube.com/watch?v=QypQK5ixJ3o)
 - :large_blue_diamond:I have a video presentation about OSI model :movie_camera: [Watch video](https://www.youtube.com/watch?v=eCvOXHbqHK4&ab_channel=AnastasiyaSavchuk)
 - :large_blue_diamond:I have a video about Android Studio :movie_camera: [Watch video](https://www.youtube.com/watch?v=zZYk4VhJ-8Y&ab_channel=AnastasiyaSavchuk)
-- - :large_blue_diamond:I have a video about HTTP  :movie_camera: [Watch video](https://www.youtube.com/watch?v=8VYKrBq1Vfs&t=182s&ab_channel=AnastasiyaSavchuk)
+- :large_blue_diamond:I have a video about HTTP  :movie_camera: [Watch video](https://www.youtube.com/watch?v=8VYKrBq1Vfs&t=182s&ab_channel=AnastasiyaSavchuk)
 
