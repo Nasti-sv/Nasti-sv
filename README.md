@@ -3,7 +3,7 @@ Hello!:wave: I am Anastasiya Savchuk. Welcome to my GitHub!
 
 
 - 🌱 QA Course by Vadim Ksenzov (Sept 2021 - Dec 2021)
-- 📫 How to reach me: [Telegram](https://t.me/nasti_sv) , [Linkedin](https://www.linkedin.com/in/anastasiya-savchuk/) 
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/anastasiya-savchuk/) 
 - Git, Git Bash [Watch my homework](https://github.com/Nasti-sv/Hard_skills/tree/main/Git) 
 - Postman [Watch my homework](https://github.com/Nasti-sv/Hard_skills/tree/main/Postman) 
 - Linux terminal [Watch my homework](https://github.com/Nasti-sv/Hard_skills/tree/main/Linux_terminal) 
